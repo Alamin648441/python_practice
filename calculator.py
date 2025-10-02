@@ -41,7 +41,7 @@ class Calculator:
         end_time = time.time()
         print(f"Total time taken: {end_time - start_time} seconds")
         exit()
-        4
+        
     
 cal = Calculator()
 start_time = time.time()
